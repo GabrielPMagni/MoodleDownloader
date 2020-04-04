@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "version": "1.0.0",
+    "name": "Moodle Video Downloader",
+    "description": "Extension for Downloading videos from Moodle.",
+    "author": "None",
+    "browser_action": {
+      "default_popup": "popup.html",
+   	  "default_title": "Moodle Video Downloader"
+    },
+      "permissions": [
+        "*://*/*",
+        "activeTab",
+        "tabs",
+        "<all_urls>"
+      ]
+}
