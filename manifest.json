@@ -9,9 +9,6 @@
    	  "default_title": "Moodle Video Downloader"
     },
       "permissions": [
-        "*://*/*",
-        "activeTab",
-        "tabs",
-        "<all_urls>"
+        "activeTab"
       ]
 }
