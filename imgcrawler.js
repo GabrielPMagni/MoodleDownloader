@@ -6,3 +6,4 @@ for (var i = 0; i <= qtdiframe; i++) {
     window.open(iframe.src, '_blank');
 
 };
+
